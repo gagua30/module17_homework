@@ -1,0 +1,22 @@
+.btn{
+    background-color: blue;
+    color: white;
+    size: 16px;
+    display: flex;
+}
+
+.btn_text{
+    margin-right: 10px;
+}
+
+.asd{
+    background-color: violet;
+}
+
+.icon{
+    size: 16px;
+}
+
+.newIcon{
+    size: 16px;
+}
